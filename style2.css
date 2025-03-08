@@ -7,6 +7,15 @@ h1{
     font-family: verdana, arial;
     border: 3px solid rgb(209, 98, 155);
     border-radius: 20px;
+    text-shadow: 3px 3px 5px red, -3px -3px 5px rgb(72, 74, 170);
+}
+
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(189, 189, 189);
+    box-shadow: 3px 3px 5px;
+
 }
 #p1{
     font-family: "lucida console", 'Courier New';
