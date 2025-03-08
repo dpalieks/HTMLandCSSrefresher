@@ -5,12 +5,19 @@
 
 h1{
     font-family: verdana, arial;
+    border: 3px solid rgb(209, 98, 155);
+    border-radius: 20px;
 }
 #p1{
     font-family: "lucida console", 'Courier New';
     font-size: 1em;
     font-weight: bold;
     font-style: oblique;
+    border-bottom: 3px solid red;
+    border-top:3px solid yellow;
+    border-left: 2px dotted darkcyan;
+
+    border-radius: 10px;
 }
 
 #p2{
