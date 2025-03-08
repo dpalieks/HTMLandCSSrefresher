@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Merri;
+    src: url(fonts/Merriweather-VariableFont_opsz,wdth,wght.ttf);
+}
+
+h1{
+    font-family: verdana, arial;
+}
+#p1{
+    font-family: "lucida console", 'Courier New';
+    font-size: 1em;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+#p2{
+    font-family: 'Big Shoulders Stencil' ;
+
+}
+
+#p3{
+    font-family: 'Roboto Mono';
+}
+
+#p4{
+    font-family: Merri;
+}
